@@ -2,7 +2,7 @@
 A collection of my personal dotfiles
 
 
-Terminal - Kitty
+Terminal - Kitty  
 File Manager - Nautilus  
 GTK Theme - Arc Darkest https://www.gnome-look.org/p/1317409  
 WM - i3  
