@@ -3,6 +3,10 @@ A collection of my personal dotfiles
 
 # Screenshots
 
+![Alt text](/screenshots/desktop.png?raw=true "Desktop")
+![Alt text](/screenshots/rofi.png?raw=true "Desktop")
+![Alt text](/screenshots/terminals.png?raw=true "Desktop")
+
 # Details
 Terminal - Kitty  
 File Manager - Nautilus  
@@ -13,3 +17,4 @@ Picom Fork - Something with Dual Kawaise blur can't remember which one
 Shell - ZSH with oh-my-zsh (base theme) https://ohmyz.sh  
 Colors - From Pywal  
 Application Picker - Ulauncher or Rofi
+Cursor Theme - Breeze Snow
