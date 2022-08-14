@@ -8,7 +8,7 @@ A collection of my personal dotfiles
 ![Alt text](/screenshots/terminals.png?raw=true "Desktop")
 
 # Details
-Distro - Tucana Based on LFS - https://github.com/xXTeraXx/Tucana
+Distro - Tucana Based on LFS - https://github.com/xXTeraXx/Tucana  
 Terminal - Kitty  
 File Manager - Nautilus  
 GTK Theme - Arc Darkest - https://www.gnome-look.org/p/1317409  
